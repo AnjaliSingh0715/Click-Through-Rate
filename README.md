@@ -1,4 +1,4 @@
-# Click-Through-Rate-
+# Click-Through-Rate
 Our team of two competed in the data science hackathon ("Datahack ") in which <strong>we ranked under 150</strong>.
 Click Through Rate Predictor
 # EDA and Model Building :
